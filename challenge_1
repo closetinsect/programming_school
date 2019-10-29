@@ -1,0 +1,4 @@
+# Write a program that takes an input and prints it
+
+name = input("Give me your name: ")
+print("Your name is " + name)
